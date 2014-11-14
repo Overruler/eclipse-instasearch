@@ -9,3 +9,4 @@ instasearch.site/content.jar
 *.class
 target/
 
+/.project
